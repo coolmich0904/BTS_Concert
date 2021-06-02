@@ -1,5 +1,5 @@
 # BTS Concert
-- React app : no DB
+- React application to reserve the concert ticket
 
 ### install dependencies
 NPM:
